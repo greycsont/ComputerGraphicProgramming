@@ -1,6 +1,6 @@
-﻿namespace CGP
+﻿namespace week1
 {
-    partial class SimpleDrawing
+    partial class CircleInSquare
     {
         /// <summary>
         /// Required designer variable.

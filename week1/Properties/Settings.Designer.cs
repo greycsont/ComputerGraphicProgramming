@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace CGP.Properties
+namespace week1.Properties
 {
 
 

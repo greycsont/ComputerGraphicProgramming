@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace CGP
+namespace week1
 {
     internal static class Program
     {
@@ -16,7 +16,7 @@ namespace CGP
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new SimpleDrawing());
+            Application.Run(new CircleInSquare());
         }
     }
 }
